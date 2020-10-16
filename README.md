@@ -1,21 +1,21 @@
 # Framework CodeIgniter
 
-`CodeIgniter Downloads <https://codeigniter.com/download>`\_ page.
+[CodeIgniter Downloads](https://codeigniter.com/download)
 
 ---
 
 **Dokumentasi Program**
 
-![Halaman index](/dokumentasi_program/1-halaman-utama.png)
-
 ---
+
+![Halaman index](/dokumentasi_program/1-halaman-utama.png)
 
 ---
 
 **Database**
 
+---
+
 ```
 Bangun-Datar.sql
 ```
-
----
