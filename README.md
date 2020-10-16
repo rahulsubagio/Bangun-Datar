@@ -15,6 +15,10 @@ Dokumentasi Program
 
 ![Halaman input](/dokumentasi_program/2-input-segitiga.png)
 
-![Halaman input](/dokumentasi_program/3-hitung-persegi.png)
+---
 
-![Halaman input](/dokumentasi_program/3-hitung-lingkaran.png)
+Database
+
+---
+
+`Bangun-Datar.sql`
