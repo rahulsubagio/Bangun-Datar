@@ -1,0 +1,81 @@
+Array
+(
+    [Bangun Datar] => segitiga
+    [tinggi] => 5
+    [alas] => 3
+    [sisikiri] => 4
+    [sisikanan] => 6
+    [luas] => 7.5
+    [keliling] => 13
+)
+Array
+(
+    [Bangun Datar] => persegi
+    [panjang] => 4
+    [lebar] => 3
+    [luas] => 12
+    [keliling] => 14
+)
+Array
+(
+    [Bangun Datar] => lingkaran
+    [jari] => 9
+    [luas] => 254.34
+    [keliling] => 56.52
+)
+Array
+(
+    [Bangun Datar] => lingkaran
+    [jari] => 6
+    [luas] => 113.04
+    [keliling] => 37.68
+)
+Array
+(
+    [Bangun Datar] => segitiga
+    [tinggi] => 9
+    [alas] => 14
+    [sisikiri] => 6
+    [sisikanan] => 10
+    [luas] => 63
+    [keliling] => 30
+)
+Array
+(
+    [Bangun Datar] => persegi
+    [panjang] => 8
+    [lebar] => 9
+    [luas] => 72
+    [keliling] => 34
+)
+Array
+(
+    [Bangun Datar] => segitiga
+    [tinggi] => 5
+    [alas] => 7
+    [sisikiri] => 6
+    [sisikanan] => 5
+    [luas] => 17.5
+    [keliling] => 18
+)
+Array
+(
+    [Bangun Datar] => lingkaran
+    [jari] => 4
+    [luas] => 50.24
+    [keliling] => 25.12
+)
+Array
+(
+    [Bangun Datar] => lingkaran
+    [jari] => 12
+    [luas] => 452.16
+    [keliling] => 75.36
+)
+Array
+(
+    [Bangun Datar] => lingkaran
+    [jari] => 17
+    [luas] => 907.46
+    [keliling] => 106.76
+)
