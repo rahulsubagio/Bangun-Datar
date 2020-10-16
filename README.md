@@ -8,7 +8,7 @@
 
 ---
 
-![Halaman index](/dokumentasi_program/1-halaman-utama.png)
+![Halaman index](/dokumentasi_program/10.png)
 
 ---
 
