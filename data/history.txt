@@ -79,3 +79,28 @@ Array
     [luas] => 907.46
     [keliling] => 106.76
 )
+Array
+(
+    [Bangun Datar] => lingkaran
+    [jari] => 7
+    [luas] => 153.86
+    [keliling] => 43.96
+)
+Array
+(
+    [Bangun Datar] => persegi
+    [panjang] => 2
+    [lebar] => 6
+    [luas] => 12
+    [keliling] => 16
+)
+Array
+(
+    [Bangun Datar] => segitiga
+    [tinggi] => 5
+    [alas] => 3
+    [sisikiri] => 6
+    [sisikanan] => 6
+    [luas] => 7.5
+    [keliling] => 15
+)
