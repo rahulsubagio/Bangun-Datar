@@ -1,24 +1,19 @@
-<<<<<<< HEAD
-###################
-Framework CodeIgniter
-###################
+# Framework CodeIgniter
 
 `CodeIgniter Downloads <https://codeigniter.com/download>`\_ page.
 
 ---
 
-Dokumentasi Program
+## Dokumentasi Program
 
 ---
 
 ![Halaman index](/dokumentasi_program/1-halaman-utama.png)
 
-![Halaman input](/dokumentasi_program/2-input-segitiga.png)
-
 ---
 
-Database
-
----
+## Database
 
 `Bangun-Datar.sql`
+
+---
