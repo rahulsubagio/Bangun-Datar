@@ -4,16 +4,18 @@
 
 ---
 
-## Dokumentasi Program
-
----
+**Dokumentasi Program**
 
 ![Halaman index](/dokumentasi_program/1-halaman-utama.png)
 
 ---
 
-## Database
+---
 
-`Bangun-Datar.sql`
+**Database**
+
+```
+Bangun-Datar.sql
+```
 
 ---
